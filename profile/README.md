@@ -13,4 +13,4 @@ EU Identity and Privacy Infrastructure
 
 ## Licensing
 
-All repositories are licensed Apache 2.0 unless otherwise stated (EUDI-Matrix-PoC is AGPL-3.0).
+All repositories are licensed Apache 2.0 unless otherwise stated.
